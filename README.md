@@ -21,7 +21,7 @@
 <h3 align="center"><strong>Languages & Frameworks</strong></h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,sklearn,pytorch,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,python,sklearn,opencv,matlab&perline=8" />
 </div>
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
 <div align="center">
