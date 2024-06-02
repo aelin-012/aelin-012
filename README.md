@@ -25,7 +25,7 @@
 </div>
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=autocad,bash,vscode,git,github,notion,tensorflow,latex,ps,stackoverflow,visualstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=autocad,vscode,git,github,notion,tensorflow,latex,ps,stackoverflow,visualstudio&perline=8" />
 </div>
 <br/>
 
