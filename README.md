@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/fKemXSbd-pAAAAAC/microchip.gif" style="border-radius: 20px;" alt="Microchip GIF">
+  <img src="https://media1.tenor.com/m/fKemXSbd-pAAAAAC/microchip.gif" width="275"/>
 </div>
 <div align="center">
   <h1>
