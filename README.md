@@ -1,65 +1,97 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/m/MF8N5h8qHQMAAAAd/date-everywhere-data.gif" width="275"/>
-</div>
 <div align="center">
-  <h1>
-    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>I'm Yoshni Nandha Kishore
-  </h1>
-  <a href="mailto:yoshni2003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>  
-  <a href="https://www.linkedin.com/in/yoshni-nandha-kishore/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>  
-  <a href="https://aelin-012.github.io/my-portfolio/">
-    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" />
-  </a>  
-  <a href="https://yoshni-portfolio.blogspot.com/">
-    <img src="https://skillicons.dev/icons?i=blogger" alt="Blog" />
-  </a>  
-  <hr>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  
+  # ✨ Hello, I'm Yoshni Nandha Kishore! ✨
+
+  <p>
+    <a href="mailto:yoshni2003@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/yoshni-nandha-kishore/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://aelin-012.github.io/my-portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://yoshni-portfolio.blogspot.com/">
+      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+    </a>
+  </p>
 </div>
 
-<h3 align="center">
-  👋 Hi there! I'm an aspiring data analyst with a passion for turning raw data into meaningful insights. With a strong foundation in data analysis, problem-solving, and visualization, I love uncovering patterns that drive smarter decision-making. Beyond numbers, I'm also a management enthusiast who thrives on organization and leadership.<br><br>
-  When I’m not diving into datasets, you’ll find me reading a good book, listening to music and podcasts, or binge-watching movies and series. I also love experimenting in the kitchen—always with a cup of coffee in hand! ☕📊✨<br><br>
-  Let’s connect and make data work its magic!
-</h3>
-<hr>
+---
 
-<h3 align="center"><strong>Technical Skills</strong></h3>
-<br/>
-
-<h4 align="center">Programming Languages</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+
+  ## 💫 About Me 
+  
+  <p>
+    👩‍💻 Aspiring data analyst passionate about transforming raw data into valuable insights<br>
+    📊 Enthusiastic about data visualization and pattern recognition<br>
+    🧠 Management enthusiast who thrives on organization and leadership<br>
+    ☕ Coffee addict who loves experimenting in the kitchen<br>
+    📚 Bookworm and podcast listener in my free time<br>
+    🎬 Movie and series binge-watcher when I need to recharge
+  </p>
+  
+  <em>Let's connect and make data work its magic! ✨</em>
 </div>
 
-<h4 align="center">Data Visualization Tools</h4>
+---
+
+## 🛠️ Technical Skills
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
+  <h3>Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  </p>
+  
+  <h3>Data Visualization</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </p>
+  
+  <h3>Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
+  </p>
+  
+  <h3>Development Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
+  </p>
+  
+  <h3>Productivity</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"/>
+    <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
+  </p>
 </div>
 
-<h4 align="center">Database Tools</h4>
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,gcp" alt="BigQuery Sandbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aelin-012&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelin-012&layout=compact&theme=radical&hide_border=true" height="170"/>
 </div>
 
-<h4 align="center">Development Environments</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,rstudio" />
+  <img src="https://komarev.com/ghpvc/?username=aelin-012&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
-<h4 align="center">Productivity Tools</h4>
+---
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=excel,word,gmail" alt="Spreadsheets, Microsoft Office, Google Workspace" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60"/>
+  <br>
+  <em>"The goal is to turn data into information, and information into insight." – Carly Fiorina</em>
 </div>
-
-<br/>
-<hr/>
-
-### GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aelin-012&show_icons=true&theme=react)
-
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aelin-012&layout=compact&theme=react)
