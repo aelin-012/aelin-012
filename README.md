@@ -6,13 +6,13 @@
  <p>
     <a href="mailto:yoshni2003@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>&nbsp;
+    </a>&nbsp&nbsp;
     <a href="https://www.linkedin.com/in/yoshni-nandha-kishore/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>&nbsp;
+    </a>&nbsp&nbsp;
     <a href="https://aelin-012.github.io/my-portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-    </a>&nbsp;
+    </a>&nbsp&nbsp;
     <a href="https://yoshni-portfolio.blogspot.com/">
         <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
     </a>
