@@ -3,20 +3,21 @@
   
   # ✨ Hello, I'm Yoshni Nandha Kishore! ✨
 
-  <p>
+ <p>
     <a href="mailto:yoshni2003@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/yoshni-nandha-kishore/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>&nbsp;
     <a href="https://aelin-012.github.io/my-portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-    </a>
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    </a>&nbsp;
     <a href="https://yoshni-portfolio.blogspot.com/">
-      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+        <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
     </a>
-  </p>
+</p>
+
 </div>
 
 ---
@@ -28,7 +29,7 @@
     📊 Enthusiastic about data visualization and pattern recognition<br>
     🧠 Management enthusiast who thrives on organization and leadership<br>
     ☕ Coffee addict who loves experimenting in the kitchen<br>
-    📚 Bookworm and podcast listener in my free time<br>
+    📚 Bookworm, music and podcast listener in my free time<br>
     🎬 Movie and series binge-watcher when I need to recharge
   </p>
   
@@ -41,30 +42,31 @@
 
 <div align="center">
   <h3>Programming Languages</h3>
-  <p>
+<p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  </p>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
   
-  <h3>Data Visualization</h3>
+  <h3>Data Visualization Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   </p>
   
-  <h3>Databases</h3>
+  <h3>Database Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
   </p>
   
-  <h3>Development Tools</h3>
+  <h3>Development Environments</h3>
   <p>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
   </p>
   
-  <h3>Productivity</h3>
+  <h3>Productivity Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"/>
