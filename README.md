@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/en-GB/view/date-everywhere-data-digital-marketing-gif-24166770" width="300"/>
+  <img src="https://media.tenor.com/MF8N5h8qHQMAAAAd/date-everywhere-data.gif" width="300"/>
   
   # ✨ Hello, I'm Yoshni Nandha Kishore! ✨
 
@@ -91,7 +91,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60"/>
+  <img src="https://media.tenor.com/MF8N5h8qHQMAAAAd/date-everywhere-data.gif" width="60"/>
   <br>
   <em>"The goal is to turn data into information, and information into insight." – Carly Fiorina</em>
 </div>
