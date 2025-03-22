@@ -88,7 +88,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
   <br>
   <em>"The goal is to turn data into information, and information into insight." – Carly Fiorina</em>
 </div>
