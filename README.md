@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://media.tenor.com/MF8N5h8qHQMAAAAd/date-everywhere-data.gif" width="300"/>
-  
+  <img src="data-everywhere.gif" width="300"/>
+
+
+
   # ✨ Hello, I'm Yoshni Nandha Kishore! ✨
 
   <p>
